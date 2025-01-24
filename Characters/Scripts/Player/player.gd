@@ -73,3 +73,5 @@ func get_input():
 			_animated_sprite.stop()
 			is_fishing = false
 			return is_fishing
+
+# test
